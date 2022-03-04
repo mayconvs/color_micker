@@ -1,0 +1,3 @@
+[console_scripts]
+pyperclip3 = pyperclip3.cli:main
+
