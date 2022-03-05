@@ -1,6 +1,8 @@
 # Color Micker
-<img display="block" align="left" alt="Print da tela do Color Micker (color picker)" src="https://cdn.discordapp.com/attachments/949455798281601045/949457199887974410/color-micker-mayconvs.png"><br>
-<p>Um color picker básico que mostra a posição atual do mouse e as cores em RGB e HEX da posição do mouse em tempo real. 
+<div display="block" width="100%">
+<img alt="Print da tela do Color Micker (color picker)" src="https://cdn.discordapp.com/attachments/949455798281601045/949457199887974410/color-micker-mayconvs.png">
+</div><br>
+<p>Um color picker básico que mostra a posição, a cor RGB e Hexadecimal da posição do mouse em tempo real. 
 
 Para copiar o código hexadecimal da cor, basta apertar a tecla "Q" enquanto o mouse está em cima da cor de interesse.</p>
 
