@@ -13,3 +13,7 @@ Para copiar o código hexadecimal da cor, basta apertar a tecla "Q" enquanto o m
 - [x] Apertar a letra "Q" do teclado para copiar a cor em hexadecimal atual<br>
 
 <img align="center" alt="Demonstração de como funciona o Color Micker" src="https://cdn.discordapp.com/attachments/949455798281601045/949455861389074442/gif_color_micker.gif">
+
+## Download
+[Color Micker.zip](https://github.com/mayconvs/downloads/raw/main/Color%20Micker.zip) <br><br>
+**Atenção!** Seu antivírus irá lhe alertar sobre vírus, porém, **não há vírus**. Não sei ainda porque isso acontece. Se você ainda tiver dúvidas, você pode baixar o projeto todo e abrir o arquivo "dist/color_micker.exe" para executar o programa no seu computador.
