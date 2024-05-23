@@ -16,4 +16,4 @@ Para copiar o código hexadecimal da cor, basta apertar a tecla "Q" enquanto o m
 
 ## Download
 [Color Micker.zip](https://github.com/mayconvs/downloads/raw/main/Color%20Micker.zip) <br><br>
-**Atenção!** Seu antivírus irá lhe alertar sobre vírus, porém, **não há vírus**. Não sei ainda porque isso acontece. Se você ainda tiver dúvidas, você pode baixar o projeto todo e abrir o arquivo "dist/color_micker.exe" para executar o programa no seu computador.
+**Atenção!** Seu antivírus irá lhe alertar sobre vírus, porém, **não há vírus**. Você pode verificar por sí todo o código à cima. Se você ainda tiver dúvidas sobre como executá-lo, basta baixar o projeto .zip à cima e abrir o arquivo "dist/color_micker.exe" para executar o programa no seu computador.
